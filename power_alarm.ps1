@@ -28,17 +28,15 @@ while(1){
 }
 # PowerShell.exe -file  power_alarm.ps1
 
-#[System.Media.SystemSounds]::Beep.Play()  
-  
-	# 1 { "Battery is discharging" }
-    # 2 { "The system has access to AC so no battery is being discharged. However, the battery is not necessarily charging." }
-    # 3 { "Fully Charged" }
-    # 4 { "Low" }
-    # 5 { "Critical" }
-    # 6 { "Charging" }
-    # 7 { "Charging and High" }
-    # 8 { "Charging and Low" }
-    # 9 { "Charging and Critical " }
-    # 10 { "Unknown State" }
-    # 11 { "Partially Charged" }  
-# G:\Users\Alan\Documents\power_alarm.ps1
+# 1 { "Battery is discharging" }
+# 2 { "The system has access to AC so no battery is being discharged. However, the battery is not necessarily charging." }
+# 3 { "Fully Charged" }
+# 4 { "Low" }
+# 5 { "Critical" }
+# 6 { "Charging" }
+# 7 { "Charging and High" }
+# 8 { "Charging and Low" }
+# 9 { "Charging and Critical " }
+# 10 { "Unknown State" }
+# 11 { "Partially Charged" }  
+
